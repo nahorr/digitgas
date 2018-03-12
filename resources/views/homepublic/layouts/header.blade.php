@@ -5,7 +5,7 @@
 					<!-- Contact starts -->
 					<div class="tb-contact pull-left">
 						<!-- Email -->
-						<i class="fa fa-envelope color"></i> &nbsp; <a href="mailto:contact@domain.com">nnamdi@nahorr.com</a>
+						<i class="fa fa-envelope color"></i> &nbsp; <a href="mailto:contact@domain.com">info@digitgas.com</a>
 						&nbsp;&nbsp;  
 						<!-- Phone -->
 						<i class="fa fa-phone color"></i> &nbsp; +1 (403)-(402)-2387
@@ -104,7 +104,7 @@
 						<div class="col-md-2">
 							<!-- Logo section -->
 							<div class="logo">
-								<h1><a href="#"><i class="fa fa-laptop"></i> Nahorr</a></h1>
+								<h1><a href="#"><i class="fa fa-laptop"></i> DigitGas</a></h1>
 							</div>
 						</div>
 						<div class="col-md-9">
