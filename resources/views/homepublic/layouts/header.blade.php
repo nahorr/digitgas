@@ -101,13 +101,13 @@
 				<!-- Container -->
 				<div class="container">
 					<div class="row">
-						<div class="col-md-2">
+						<div class="col-md-3">
 							<!-- Logo section -->
 							<div class="logo">
 								<h1><a href="#"><i class="fa fa-laptop"></i> DigitGas</a></h1>
 							</div>
 						</div>
-						<div class="col-md-9">
+						<div class="col-md-8">
 						
 							<!-- Navigation starts.  -->
 							<div class="navy">			
